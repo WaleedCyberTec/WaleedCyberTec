@@ -6,7 +6,7 @@ I enjoy tackling complex security challenges through hands-on projects. My work 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Implementation](https://github.com/WaleedCyberTec/Vulnerability-Management-implementation/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/WaleedCyberTec/ProgrammaticVulnerabilityRemediations-PowerShell-BASH-Shell-Commands-/tree/main)**
 
 ## 🚨 Threat Hunting and Security Operations
 
