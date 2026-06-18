@@ -10,7 +10,7 @@ I enjoy tackling complex security challenges through hands-on projects. My work 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/WaleedCyberTec/threat-hunting-scenario-tor)**
 
 <hr/>
 
