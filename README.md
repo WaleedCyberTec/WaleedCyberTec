@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/waleed-alharbi-38108a123/">Waleed Alharbi</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Passionate about cybersecurity, I enjoy tackling complex security challenges through hands-on projects. My work spans vulnerability management, threat detection, and security operations, allowing me to continuously develop practical skills and contribute to stronger, more resilient security environments.
+I enjoy tackling complex security challenges through hands-on projects. My work spans vulnerability management, threat detection, and security operations, allowing me to continuously develop practical skills and contribute to stronger, more resilient security environments.
 
 
 ## ⚠️ Vulnerability Management Projects
